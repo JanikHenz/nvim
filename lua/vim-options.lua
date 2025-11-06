@@ -11,7 +11,6 @@ vim.opt.clipboard = "unnamedplus"
 
 -- info: packadd termdebug
 -- :Termdebug for vim gdb debugging yo
-
 vim.o.swapfile = false
 vim.o.hlsearch = false
 vim.o.undofile = true

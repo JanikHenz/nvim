@@ -1,0 +1,32 @@
+{
+  "plugins": {
+    "blink.cmp": {
+      "version": "'v1.0.0'"
+    },
+    "friendly-snippets": [],
+    "harpoon": {
+      "version": "'harpoon2'"
+    },
+    "markdown-preview.nvim": {
+      "rev": "a923f5f",
+      "src": "https://github.com/iamcco/markdown-preview.nvim"
+    },
+    "mason-lspconfig.nvim": [],
+    "mason.nvim": [],
+    "nvim": {
+      "rev": "234fc04",
+      "src": "https://github.com/catppuccin/nvim"
+    },
+    "nvim-lspconfig": [],
+    "nvim-treesitter": [],
+    "oil.nvim": [],
+    "plenary.nvim": [],
+    "render-markdown.nvim": {
+      "rev": "a1b2bf0",
+      "src": "https://github.com/MeanderingProgrammer/render-markdown.nvim"
+    },
+    "telescope-fzf-native.nvim": [],
+    "telescope.nvim": [],
+    "tokyonight.nvim": []
+  }
+}
